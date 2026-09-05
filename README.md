@@ -1,5 +1,5 @@
 Superstore Excel Dashboard
-This project presents an interactive Excel dashboard built from the popular Superstore dataset. It provides key insights into *sales, **profit, **shipping performance, and *regional trends — showcasing my Excel data analysis skills from data cleaning to visual storytelling.
+This project presents an interactive Excel dashboard built from the popular Superstore dataset. It provides key insights into *sales, **profit, **shipping performance, and *regional trends showcasing my Excel data analysis skills from data cleaning to visual storytelling.
 
 Data Cleaning & Processing
 Cleaned inconsistent date formats (UK/US) using Power Query
@@ -31,5 +31,5 @@ Files in this Repository
 Superstore.xlsx — Cleaned and analyzed dataset
 dashboard.jpg — High-quality image of the final dashboard
 README.md — Project overview and documentation
-Created by Ruthdeeanalyst
+Created by Umesh
 Let’s connect on LinkedIn
